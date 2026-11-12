@@ -1,0 +1,23 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "체리의 미로"
+
+[ejs.landing]
+mediaHomeURL = "https://mysticred.space"
+mediaLinkURL = "#"
+mediaMapURL = "https://map.mysticred.space"
+mediaGitHubURL = "https://github.com/higheye244-svg/CherrysMaze"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/Z8j6ahF4MJ"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/higheye244-svg/CherrysMaze"
+supportLink = "https://github.com/higheye244-svg/CherrysMaze/issues"
+
+[ejs.welcome]
+welcomeHeader = "체리의 미로"
+welcomeDescription = "체리의 미로에 오신 것을 환영합니다."
+welcomeDescCTA = ""
